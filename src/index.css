@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f4f4f4;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  margin-right: 8px;
+}
+
+header a {
+  padding: 6px 10px;
+  background: rgba(0,0,0,0.2);
+  border-radius: 4px;
+}
+
+main {
+  max-width: 900px;
+  margin: auto;
+  background: white;
+  padding: 20px;
+  margin-top: 10px;
+  border-radius: 6px;
+}
